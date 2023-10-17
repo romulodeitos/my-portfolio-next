@@ -7,7 +7,7 @@ import favIconInstagram from "./imagens/icons8-instagram-30.png";
 
 export default function Inicio() {
   return (
-    <div className="">
+    <div id="home">
       <div className="pt-16">
         <Image
           src={minhaImagem}
