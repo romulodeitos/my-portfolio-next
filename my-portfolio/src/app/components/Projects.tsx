@@ -6,6 +6,7 @@ import reactJS from "./imagens/icons8-reagir-88.png";
 export default function Projects() {
   return (
     <div id="projects">
+      <div className="pt-12 bg-white "></div>
       <div className="font-mono... bg-zinc-800 text-white text-center text-4xl pt-16 pb-16">
         <h2>My Projects</h2>
       </div>

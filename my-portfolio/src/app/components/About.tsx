@@ -1,6 +1,7 @@
 export default function About() {
   return (
     <div id="about">
+      <div className="pt-12 bg-zinc-800"></div>
       <div className="bg-white">
         <h2 className="font-mono... text-black text-3xl p-4 pt-12 pl-12">
           Hi there! Welcome.
